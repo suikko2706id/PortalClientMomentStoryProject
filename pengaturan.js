@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Client Moment Story Project",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyDBNLNNjHEosP3nW9v0btO0Dxcd6Ioj5k0",    
     whatsappAdmin: "082272443980" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
